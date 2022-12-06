@@ -13,7 +13,7 @@
     "babel-preset-react": "6.11.1",
     "babel-register": "6.11.6",
     "errorhandler": "1.4.3",
-    "express": "4.14.0",
+    "express": "4.17.3",
     "hbs": "4.0.0",
     "react": "15.5.4",
     "react-dom": "15.5.4"
